@@ -14,7 +14,7 @@
 
 `pip install mechanize`
 
-`rm -rf MAX-VERSION`
+`rm -rf ULTRA-VERSION
 
 `git clone https://github.com/THE-BADBOY/ULTRA-VERSION
 
